@@ -14,6 +14,8 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
 License/Copyright
 =================
+Contributor: Sun Yue Ran
+
 
 Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
@@ -21,4 +23,12 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Modification made to the prject gutenberg HTML files
+====================================================
+Change the paragraph and header Font to the serif.
 
+Change background to the yellowish paper-like style.
+
+Move the photo to the middle part of page.
+
+Modify the page numer style.

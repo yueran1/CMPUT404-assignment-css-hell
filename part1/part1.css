@@ -1,0 +1,56 @@
+body {
+	background-color:#966C05;
+	margin-left: 10%; 
+	margin-right: 10%;
+}
+
+pre{
+
+	font-style: italic;
+	text-align: center;
+	font-size: 90%;
+}
+
+h1,h2,h3,h4,h5,h6{
+	text-align:center;
+	margin-left: 10%;
+	margin-right: 10%;
+	
+}
+
+p{
+	text-indent: 2em;
+	font-family: "Times New Roman", Times, serif;
+	text-align: justify;
+	
+}
+
+div.fig{
+	display:block;
+	margin: 0 auto;
+	text-align: center;
+	
+}
+
+
+.pageno { 
+	right: 1%; 
+	background-color: inherit; 
+	color: #B22222;
+	text-align: right; 
+	position: absolute;
+	border: thin solid #B22222; 
+}
+
+
+
+   
+
+.figcenter   {
+    margin: auto;
+    text-align: center;
+}
+
+
+
+
